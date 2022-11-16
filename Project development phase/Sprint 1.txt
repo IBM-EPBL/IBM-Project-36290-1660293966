@@ -1,0 +1,11 @@
+SPRINT-1
+
+IN SPRINT 1,We have submitted all the required pre-requisites,
+softwares,like the IBM IoT WATSON,Node red flow diagram,IBM 
+cloud account dashboard and so on
+
+
+
+
+
+
